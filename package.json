@@ -1,6 +1,6 @@
 {
-  "name": "ui-angular",
-  "version": "0.0.0",
+  "name": "@descco/angular-ui",
+  "version": "0.1.0",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
