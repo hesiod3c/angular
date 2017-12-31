@@ -8,7 +8,7 @@ import { styles } from '@descco/ui-core';
       (click)="handleClick($event)"
       type="{{type || 'button'}}"
       class="{{getStyle(style, size)}}">
-      <ng-content></ng-content>
+      {{ text }}
     </button>
   `,
   styleUrls: ['../../../node_modules/@descco/ui-core/lib/css/06-components/button.css']
@@ -16,8 +16,9 @@ import { styles } from '@descco/ui-core';
 export class UiButtonComponent {
   classes: object;
   @Input() className: string;
-  @Input() type: string;
   @Input() style: string;
+  @Input() type: string;
+  @Input() text: string;
   @Input() size: string;
   @Output() onClick: EventEmitter<any> = new EventEmitter<any>();
 
