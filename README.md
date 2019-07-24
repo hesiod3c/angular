@@ -1,7 +1,12 @@
 # Ui - Angular
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-ui/angular.svg?style=flat-square)](https://github.com/descco-ui/angular/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-hesiod/angular.svg)](https://github.com/org-hesiod/angular/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-hesiod/angular.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-hesiod/angular.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-hesiod/angular.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-hesiod/angular.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-hesiod/angular/total.svg)
 
 ## Usage 
 
@@ -44,7 +49,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Log
 
-Check [Releases](https://github.com/descco-ui/angular/releases) for detailed changelog.
+Check [Releases](https://github.com/org-hesiod/angular/releases) for detailed changelog.
 
 ## License
 
